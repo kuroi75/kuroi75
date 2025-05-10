@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name Fahim (aka Kuroi) is and I'm a student of CSE</h2>
+<h2 align="left">Hi 👋! My name is Fahim (aka Kuroi) and I'm a student of CSE</h2>
 
 ###
 
