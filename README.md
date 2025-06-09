@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Fahim (aka Kuroi) and I'm a student of CSE</h2>
+![image](https://github.com/user-attachments/assets/39c1bea4-4968-4fa5-a670-85915261e3f1)<h2 align="left">Hi 👋! My name is Fahim (aka Kuroi) and I'm a student of CSE</h2>
 
 ###
 
@@ -15,7 +15,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png?20210729021549)" height="30" alt="premierepro logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
   <img width="12" />
