@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/39c1bea4-4968-4fa5-a670-85915261e3f1)<h2 align="left">Hi 👋! My name is Fahim (aka Kuroi) and I'm a student of CSE</h2>
+<h2 align="left">Hi 👋! My name is Fahim (aka Kuroi) and I'm a student of CSE</h2>
 
 ###
 
