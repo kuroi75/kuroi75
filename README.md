@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! My name is Fahim (aka Kuroi) and I'm a student of CSE</h2>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
